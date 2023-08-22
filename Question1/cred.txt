@@ -1,0 +1,8 @@
+{
+    "companyName": "My Trainz",
+    "clientID": "82d83fbc-6d70-4c8c-9e9c-80a0a559f984",
+    "clientSecret": "FjFoDZfPVvCBfVjp",
+    "ownerName": "Jayesh S Chaudhari",
+    "ownerEmail": "jc4529@srmist.edu.in",
+    "rollNo": "RA2011028010094"
+}
